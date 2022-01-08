@@ -1,7 +1,6 @@
 README
 
    Bonobo Central Bank est un outil de simulation de creation monétaire avec économie de marché.
-   Ce projet est réalisé dans le cadre de la validation de l'UE Projet S4.
    Nous développons plus bas l'utilisation de cet outil.
 
    Le calcul du sha256 se fait en utilisant le code fourni sur Moodle :
